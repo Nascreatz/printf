@@ -128,3 +128,4 @@ int print_S(va_list ap, params_t *params)
 			sum += _putchar(*str);
 		}
 	}
+	return (sum);
